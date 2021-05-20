@@ -1,0 +1,4 @@
+{
+    "mogoURL":"mongodb+srv://simran123:simran123@simrannode-n9glw.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "mysecretToken"
+}
